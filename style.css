@@ -118,19 +118,63 @@ section h2 {
     padding: 13px;
 }
 
-.special1 {
+.Pursuer {
     flex-basis: 360px;
     flex-grow: 1;
     flex-shrink: 1;
-    background-color: #9f36b4;
+    background-color: #163614;
     border-radius: 12px;
     padding: 13px;
 }
 
+.Badware {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: #2a9123;
+    border-radius: 12px;
+    padding: 13px;
+}
+
+.Artful {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: hsl(0, 0%, 79%);
+    border-radius: 12px;
+    padding: 13px;
+}
+
+.Harken {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: hsl(66, 70%, 43%);
+    border-radius: 12px;
+    padding: 13px;
+}
 .thumb {
     margin-bottom: 10px;
     border-radius: 10px;
     overflow: hidden;
+}
+
+.Killdroid {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: hsl(0, 98%, 32%);
+    border-radius: 12px;
+    padding: 13px;
+}
+
+.Pretence {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: hsl(0, 0%, 66%);
+    border-radius: 12px;
+    padding: 13px;
 }
 
 .thumb img {
