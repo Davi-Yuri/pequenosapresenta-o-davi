@@ -177,6 +177,15 @@ section h2 {
     padding: 13px;
 }
 
+.Civil {
+    flex-basis: 360px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: hsl(0, 1%, 79%);
+    border-radius: 12px;
+    padding: 13px;
+}
+
 .thumb img {
     width: 50%;
     display: block;
